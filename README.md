@@ -4,7 +4,7 @@
 O projeto é uma aplicação simples utlizando a API do Pokemon, exemplo da aula do Prof. Roger Melo
 
 No projeto são realizadas requisições ajax assíncronas sem que as páginas necesitem ser carregadas,
-cada iteração executa um fetch obtendo uma resposta e retornando uma promisse solicitando que traga dados
+cada iteração executa um fetch obtendo uma resposta e retornando uma promisse, solicitando que traga dados
 da url retornando 150 Pokemons.
 
 
